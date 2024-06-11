@@ -16,7 +16,7 @@ It is important to note that even though I coded the logic for this game myself 
 To use this project, simply clone the repository and open the `index.html` file in your browser.
 
 ```bash
-git clone https://github.com/Emboiss13/Modal-Window-JS-Course-Project.git
+git clone https://github.com/username/Modal-Window-JS-Course-Project.git
 ```
 ## 🗒️Code Explanation
 
